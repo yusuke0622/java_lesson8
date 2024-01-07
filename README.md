@@ -4,11 +4,11 @@
 
 ## 例  
 クラス① 
-、、、
+｀｀｀
 public class StaticTest {
   public static int number = 1;
 }
-、、、
+｀｀｀
 クラス②　（インスタンス生成なしでクラス①から直接staticフィールドを呼び出せる）
 、、、
 public class Test {
